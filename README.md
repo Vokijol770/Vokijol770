@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vokijol770
+- 👋 Hi, I’m Sergey
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning!
 
